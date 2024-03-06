@@ -14,6 +14,10 @@ Website: [Obstacle Challenge Website](https://obstaclecourse.tricentis.com/)
 
 This project is implemented using TypeScript, a statically typed superset of JavaScript that compiles to plain JavaScript. TypeScript enhances code maintainability and developer productivity by providing features like static typing, interfaces, and advanced tooling support.
 
+## Text Editor Used
+
+This project is developed using [Visual Studio Code (VS Code)](https://code.visualstudio.com/), a popular and versatile code editor. VS Code provides a wide range of features and extensions to enhance the development experience, making it an excellent choice for writing and managing code efficiently.
+
 ## Getting Started
 
 ### Installation
